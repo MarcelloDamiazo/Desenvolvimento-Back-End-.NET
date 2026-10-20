@@ -112,7 +112,7 @@ void AvaliarUmaBanda()
        int nota = int.Parse(Console.ReadLine()!);
        bandasRegistradas[nomeDaBanda].Add(nota);
        Console.WriteLine($"\nA nota {nota} foi registrada com sucesso para a banda {nomeDaBanda}");
-       Thread.Sleep(2000);
+       Thread.Sleep(3000);
        Console.Clear();
        ExibirOpcoesDoMenu();
     } else
