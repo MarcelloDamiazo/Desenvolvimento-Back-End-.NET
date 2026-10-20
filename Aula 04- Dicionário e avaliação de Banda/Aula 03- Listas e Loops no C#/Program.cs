@@ -1,5 +1,5 @@
 ﻿string mensagemDeBoasVindas = "Boas Vindas ao Screen Sound!";
-List<string> listaDasBandas = new List<string>{"The Mariás", "Cuco", "ACDC", "Metallica"};
+List<string> listaDasBandas = new List<string>{"Nirvana", "Iron Maiden", "ACDC", "Metallica"};
 void ExibirLogo()
 {
     Console.WriteLine(@"
