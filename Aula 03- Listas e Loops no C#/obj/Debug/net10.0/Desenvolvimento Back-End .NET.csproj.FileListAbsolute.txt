@@ -13,3 +13,11 @@ C:\Users\Marcello Damiazo\Desktop\Alura\Desenvolvimento Back-End .NET\Aula 03- L
 C:\Users\Marcello Damiazo\Desktop\Alura\Desenvolvimento Back-End .NET\Aula 03- Listas e Loops no C#\obj\Debug\net10.0\Desenvolvimento Back-End .NET.pdb
 C:\Users\Marcello Damiazo\Desktop\Alura\Desenvolvimento Back-End .NET\Aula 03- Listas e Loops no C#\obj\Debug\net10.0\Desenvolvimento Back-End .NET.genruntimeconfig.cache
 C:\Users\Marcello Damiazo\Desktop\Alura\Desenvolvimento Back-End .NET\Aula 03- Listas e Loops no C#\obj\Debug\net10.0\ref\Desenvolvimento Back-End .NET.dll
+C:\Users\Marcello Damiazo\AppData\Local\Temp\aula03-build-check\Desenvolvimento Back-End .NET.deps.json
+C:\Users\Marcello Damiazo\AppData\Local\Temp\aula03-build-check\Desenvolvimento Back-End .NET.runtimeconfig.json
+C:\Users\Marcello Damiazo\AppData\Local\Temp\aula03-build-check\Desenvolvimento Back-End .NET.dll
+C:\Users\Marcello Damiazo\AppData\Local\Temp\aula03-build-check\Desenvolvimento Back-End .NET.pdb
+C:\Users\Marcello Damiazo\AppData\Local\Temp\aula03-run-check\Desenvolvimento Back-End .NET.deps.json
+C:\Users\Marcello Damiazo\AppData\Local\Temp\aula03-run-check\Desenvolvimento Back-End .NET.runtimeconfig.json
+C:\Users\Marcello Damiazo\AppData\Local\Temp\aula03-run-check\Desenvolvimento Back-End .NET.dll
+C:\Users\Marcello Damiazo\AppData\Local\Temp\aula03-run-check\Desenvolvimento Back-End .NET.pdb
