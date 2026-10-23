@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Aula 04- Dicionário e avaliação de Banda\\Aula 03- Listas e Loops no C#\\Desenvolvimento Back-End .NET.csproj",
+      "projectUniqueName": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Módulo 1 Base\\Aula 05 - Desafio\\Desenvolvimento Back-End .NET.csproj",
       "projectName": "Desenvolvimento Back-End .NET",
-      "projectPath": "c:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Aula 04- Dicionário e avaliação de Banda\\Aula 03- Listas e Loops no C#\\Desenvolvimento Back-End .NET.csproj",
+      "projectPath": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Módulo 1 Base\\Aula 05 - Desafio\\Desenvolvimento Back-End .NET.csproj",
       "packagesPath": "C:\\Users\\Marcello Damiazo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Aula 04- Dicionário e avaliação de Banda\\Aula 03- Listas e Loops no C#\\obj\\",
+      "outputPath": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Módulo 1 Base\\Aula 05 - Desafio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcello Damiazo\\AppData\\Roaming\\NuGet\\NuGet.Config"

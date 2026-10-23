@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Aula 01- Criando o primeiro programa\\Desenvolvimento Back-End .NET.csproj",
+      "projectUniqueName": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Módulo 1 Base\\Aula 01- Criando o primeiro programa\\Desenvolvimento Back-End .NET.csproj",
       "projectName": "Desenvolvimento Back-End .NET",
-      "projectPath": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Aula 01- Criando o primeiro programa\\Desenvolvimento Back-End .NET.csproj",
+      "projectPath": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Módulo 1 Base\\Aula 01- Criando o primeiro programa\\Desenvolvimento Back-End .NET.csproj",
       "packagesPath": "C:\\Users\\Marcello Damiazo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Aula 01- Criando o primeiro programa\\obj\\",
+      "outputPath": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Módulo 1 Base\\Aula 01- Criando o primeiro programa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcello Damiazo\\AppData\\Roaming\\NuGet\\NuGet.Config"
