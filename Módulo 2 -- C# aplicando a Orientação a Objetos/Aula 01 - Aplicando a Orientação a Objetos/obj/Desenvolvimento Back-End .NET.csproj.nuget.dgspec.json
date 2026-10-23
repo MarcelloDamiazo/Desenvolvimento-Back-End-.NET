@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Aula 03- Listas e Loops no C#\\Desenvolvimento Back-End .NET.csproj": {}
+    "c:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Módulo 2 -- C# aplicando a Orientação a Objetos\\Desenvolvimento Back-End .NET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Aula 03- Listas e Loops no C#\\Desenvolvimento Back-End .NET.csproj": {
+    "c:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Módulo 2 -- C# aplicando a Orientação a Objetos\\Desenvolvimento Back-End .NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Aula 03- Listas e Loops no C#\\Desenvolvimento Back-End .NET.csproj",
+        "projectUniqueName": "c:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Módulo 2 -- C# aplicando a Orientação a Objetos\\Desenvolvimento Back-End .NET.csproj",
         "projectName": "Desenvolvimento Back-End .NET",
-        "projectPath": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Aula 03- Listas e Loops no C#\\Desenvolvimento Back-End .NET.csproj",
+        "projectPath": "c:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Módulo 2 -- C# aplicando a Orientação a Objetos\\Desenvolvimento Back-End .NET.csproj",
         "packagesPath": "C:\\Users\\Marcello Damiazo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Aula 03- Listas e Loops no C#\\obj\\",
+        "outputPath": "c:\\Users\\Marcello Damiazo\\Desktop\\Alura\\Desenvolvimento Back-End .NET\\Módulo 2 -- C# aplicando a Orientação a Objetos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcello Damiazo\\AppData\\Roaming\\NuGet\\NuGet.Config"
