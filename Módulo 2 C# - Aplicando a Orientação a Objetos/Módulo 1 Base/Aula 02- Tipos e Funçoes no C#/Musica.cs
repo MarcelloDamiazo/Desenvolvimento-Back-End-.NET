@@ -1,18 +1,19 @@
 class Musica
 {
-    public string nome = string.Empty;
-    public string artista = string.Empty;
-    public int duracao = 0;
-    public bool disponivel = true;
-
+    public string Nome { get; set; }
+    public string Artista { get; set; }
+    public int Duracao { get; set; }
+    public bool Disponivel { get; set; }
+    public string DescricaoResumida  => 
+        $"A música {Nome} pertence a banda {Artista}";
     public void ExibirFichaTecnica()
     {
-        Console.WriteLine($"Nome da música: {nome}");
-        Console.WriteLine($"Nome do artista: {artista}");
-        Console.WriteLine($"Duração da música: {duracao}");
-        if (disponivel)
+        Console.WriteLine($"Nome da música: {Nome}");
+        Console.WriteLine($"Nome do artista: {Artista}");
+        Console.WriteLine($"Duração da música: {Duracao}");
+        if (Disponivel)
         {
-            Console.WriteLine("A música está disponível");
+            Console.WriteLine("Disponivel no plano.");
         } else
         {
             Console.WriteLine("Adquira o plano premium!!");
